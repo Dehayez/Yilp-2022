@@ -20,8 +20,6 @@ router.get('/:id', async(req,res)=>{
     res.status(200).send(category);
 })
 
-
-
 router.post('/', async (req,res)=>{
     let category = new Category({
         name: req.body.name,
@@ -35,7 +33,6 @@ router.post('/', async (req,res)=>{
 
     res.send(category);
 })
-
 
 router.put('/:id',async (req, res)=> {
     const category = await Category.findByIdAndUpdate(
