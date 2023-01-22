@@ -25,7 +25,7 @@ Start project: `npm start`
 Install all packages: `npm i` or `npm install --legacy-peer-deps`\
 Start project: `npm start`
 
-\
+
 
 -----
 #### Author ####
