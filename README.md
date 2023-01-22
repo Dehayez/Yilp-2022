@@ -24,7 +24,7 @@ Start project: `npm start`
 ### Frontend ###
 Install all packages: `npm i` or `npm install --legacy-peer-deps`\
 Start project: `npm start`
-\
-\
-### Author ###
+
+-----
+## Author ##
 Yentel De Hauwere [Yentel De Hauwere](https://github.com/YentelDeHauwere "Yentel De Hauwere")
