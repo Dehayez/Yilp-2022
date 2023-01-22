@@ -8,14 +8,14 @@ Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-
 Download the project\
 Open the project in Visual Studio Code \
 Download [Expo](https://expo.dev/ "Expo")\
-Download [Xcode](https://developer.apple.com/xcode/resources/ "Xcode") and/or [Android Studio](https://developer.android.com/studio "Android Studio")\
+Download [Xcode](https://developer.apple.com/xcode/resources/ "Xcode") and/or [Android Studio](https://developer.android.com/studio "Android Studio")
 
 #### Backend ####
 Create an `.env`-file under the folder "backend" with the following contents:\
-`API_URL = /api/v1\
-secret = {your password}\
-CONNECTION_STRING = {your mongo db connection string}`\
-\
+`API_URL = /api/v1 <br/>
+secret = {your password} <br/>
+CONNECTION_STRING = {your mongo db connection string}` <br/>
+
 Install all packages: `npm i`\
 Start project: `npm start`\
 
