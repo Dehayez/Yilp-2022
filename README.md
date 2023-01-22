@@ -12,9 +12,11 @@ Download [Xcode](https://developer.apple.com/xcode/resources/ "Xcode") and/or [A
 
 #### Backend ####
 Create an `.env`-file under the folder "backend" with the following contents:\
-`API_URL = /api/v1 &nbsp;
-secret = {your password} &nbsp; 
-CONNECTION_STRING = {your mongo db connection string}`
+```
+API_URL = /api/v1
+secret = {your password} 
+CONNECTION_STRING = {your mongo db connection string}
+```
 
 Install all packages: `npm i`\
 Start project: `npm start`
