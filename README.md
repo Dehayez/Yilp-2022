@@ -1,5 +1,5 @@
 # Yilp #
-## A native digital skatetool ##
+## A Native Digital Skatetool ##
 
 #### Introduction ####
 Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-stack "MERN Stack") application that gives users the ability to find skatespots based on their location and filter. 
