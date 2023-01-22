@@ -26,7 +26,7 @@ Install all packages: `npm i` or `npm install --legacy-peer-deps`\
 Start project: `npm start`
 
 \
-\
+
 -----
 #### Author ####
 [Yentel De Hauwere](https://github.com/YentelDeHauwere "Yentel De Hauwere")
