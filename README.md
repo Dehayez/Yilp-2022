@@ -2,7 +2,7 @@
 ## Getting Started  ##
 
 ### Introduction ###
-Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-stack "MERN Stack") application that gives users the ability to find skatespots based on their location and filter. This code is the start of it.
+Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-stack "MERN Stack") application that gives users the ability to find skatespots based on their location and filter.
 
 ### Installation ###
 Download the project\
