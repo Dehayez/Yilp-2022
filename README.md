@@ -7,7 +7,7 @@ Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-
 [Mongodb](https://www.mongodb.com/docs/) "Mongodb" \
 [Express](https://expressjs.com/) "Express" \
 [ReactNative](https://reactnative.dev/) "ReactNative" \
-[Node](https://nodejs.org/en/docs/) "Node" \
+[Node](https://nodejs.org/en/docs/) "Node" 
 
 ### Installation ###
 Download this project\
