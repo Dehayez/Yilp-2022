@@ -4,9 +4,9 @@
 ### Introduction ###
 Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-stack "MERN Stack") application that gives users the ability to find skatespots based on their location and filter.
 
-[Mongodb](https://www.mongodb.com/docs/) "Mongodb" \
-[Express](https://expressjs.com/) "Express" \
-[ReactNative](https://reactnative.dev/) "ReactNative" \
+[Mongodb](https://www.mongodb.com/docs/) \
+[Express](https://expressjs.com/) \
+[ReactNative](https://reactnative.dev/) \
 [Node](https://nodejs.org/en/docs/)  
 
 ### Installation ###
