@@ -5,7 +5,7 @@
 Yilp is a project made for skaters. A [MERN Stack](https://www.mongodb.com/mern-stack "MERN Stack") application that gives users the ability to find skatespots based on their location and filter.
 
 ### Installation ###
-Download the project\
+Download this project\
 Open the project in Visual Studio Code \
 Download [Expo](https://expo.dev/ "Expo")\
 Download [Xcode](https://developer.apple.com/xcode/resources/ "Xcode")\
